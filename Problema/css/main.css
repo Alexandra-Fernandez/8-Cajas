@@ -1,0 +1,20 @@
+div{
+	border:2px solid black;
+	background: #A9A9A9;
+	margin:10px;
+	width: 150px;
+	height: 150px;
+}
+.bloque2{
+	width: 550px;
+	height: 180px;
+}
+.caja1{
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+}
+.bloque3{
+	display: inline-block;
+	height: 150px;
+}
