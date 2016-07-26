@@ -1,20 +1,19 @@
-div{
-	border:2px solid black;
-	background: #A9A9A9;
-	margin:10px;
-	width: 150px;
-	height: 150px;
+.caja{
+	background-color: gray;
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	margin: 5px;
 }
-.bloque2{
-	width: 550px;
-	height: 180px;
-}
-.caja1{
+
+.inline-block{
 	display: inline-block;
-	width: 150px;
-	height: 150px;
 }
-.bloque3{
-	display: inline-block;
-	height: 150px;
+
+.caja-grande{
+	background-color: gray;
+	border: 1px solid black;
+	padding: 5px;
+	width: 350px;
+	margin: 5px;
 }
